@@ -1,2 +1,2 @@
 # unreal-lab
-Unreal Engine projects, cinematic renders, and creative experiments — a showcase of my real-time 3D work.
+ A collection of my Unreal Engine projects and animations.
